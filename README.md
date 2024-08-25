@@ -11,6 +11,9 @@ versatile as Bridge v3.
 ## When will Harmony be finished?
 no idea
 
+## What will happen to this repo once Harmony is finished?
+Harmony will be integrated into Unifier and Unifier Micro repositories. This repository will be archived.
+
 ## Todos
 - [ ] Create base Harmony class and constructor
 - [ ] Add basic Discord-to-Discord bridging functionality
