@@ -1,12 +1,23 @@
 <h1 align=center>
   <img width=64 src=https://github.com/UnifierHQ/unifier/assets/41323182/3065245a-28b6-4410-9b07-8b940f4796ae><br>
 Harmony</h1>
-<p align=center>A new bridge for Unifier and Unifier Micro</p>
+<p align=center>Bridge for Unifier and Unifier Micro v4</p>
 
 ## What is Harmony?
 Harmony is a work-in-progress bridge library made for Unifier and Unifier Micro which will replace the existing
 Unifier Bridge v3 and Unifier Micro Bridge. Harmony will be much simpler while being just as fast, flexible, and
 versatile as Bridge v3.
+
+## Why make Harmony?
+The current Bridge v2 and v3 are rather...complicated.
+
+We made Bridge v2 to make things less complex than Bridge v1, but as we added more features to it to eventually end
+up at Bridge v3, it has become just as complicated to maintain Bridge yet again. Also, Unifier and Unifier Micro do
+not share the same bridge. While Unifier uses Bridge v2 and v3, Unifier Micro uses its own bridge. So when we want
+to add something for the bridge for both bots, we'd need to do it twice.
+
+We also want to allow completely liberating Unifier from Discord. Instead of running Revolt support on top of a 
+Discord bot, you'll be able to run Discord support on top of a Revolt bot, and so on.
 
 ## When will Harmony be finished?
 no idea
