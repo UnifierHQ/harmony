@@ -1,5 +1,5 @@
 <h1 align=center>
-  <img width=64 src=https://github.com/UnifierHQ/unifier/assets/41323182/3065245a-28b6-4410-9b07-8b940f4796ae><br>
+  <img width=64 src=https://github.com/user-attachments/assets/aa63cf6e-e18b-4285-a77c-aab30c3099e4><br>
 Harmony</h1>
 <p align=center>Bridge for Unifier and Unifier Micro v4</p>
 
