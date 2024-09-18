@@ -8,6 +8,10 @@ Harmony is a work-in-progress bridge library made for Unifier and Unifier Micro 
 Unifier Bridge v3 and Unifier Micro Bridge. Harmony will be much simpler while being just as fast, flexible, and
 versatile as Bridge v3.
 
+This is also my (Green's) IB CAS project. Yeah, it's quite late, but I decided to switch my project recently because
+I wasn't certain I would finish it on time so I figured upgrading something that already exists instead of making 
+something very complicated from scratch would be the better option.
+
 ## Why make Harmony?
 The current Bridge v2 and v3 are rather...complicated.
 
