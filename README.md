@@ -1,3 +1,6 @@
+> [!WARNING]
+> Harmony development will continue in [unifier-v4](https://github.com/UnifierHQ/unifier-v4).
+
 <h1 align=center>
   <img width=64 src=https://github.com/user-attachments/assets/aa63cf6e-e18b-4285-a77c-aab30c3099e4><br>
 Harmony</h1>
@@ -7,10 +10,6 @@ Harmony</h1>
 Harmony is a work-in-progress cross-platform bridge framework made for Unifier and Unifier Micro which will replace
 the existing Unifier Bridge v3 and Unifier Micro Bridge. Harmony will be much simpler while being just as fast, flexible,
 and versatile as Bridge v3.
-
-This is also my (Green's) IB CAS project. Yeah, it's quite late, but I decided to switch my project recently because
-I wasn't certain I would finish it on time so I figured upgrading something that already exists instead of making 
-something very complicated from scratch would be the better option.
 
 ## Why make Harmony?
 The current Bridge v2 and v3 are rather...complicated.
@@ -24,7 +23,7 @@ We also want to allow completely liberating Unifier from Discord. Instead of run
 Discord bot, you'll be able to run Discord support on top of a Revolt bot, and so on.
 
 ## When will Harmony be finished?
-Around November
+Around December
 
 ## What will happen to this repo once Harmony is finished?
 Not sure
